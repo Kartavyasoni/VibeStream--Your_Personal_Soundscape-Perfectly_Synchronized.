@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+
+# Ignore the massive 1.2M song dataset
+Data/Raw/tracks_features.csv
+
+# Ignore cache
+__pycache__/
